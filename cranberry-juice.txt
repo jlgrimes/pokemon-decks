@@ -1,6 +1,6 @@
 ****** Pokémon Trading Card Game Deck List ******
 
-##Pokémon - 25
+##Pokémon - 26
 
 * 3 Bidoof BRS 120
 * 3 Bibarel BRS 121
@@ -14,8 +14,9 @@
 * 1 Wormadam BRS 98
 * 1 Lumineon V BRS 40
 * 1 Manaphy BRS 41
+* 1 Spiritomb
 
-##Trainer Cards - 28
+##Trainer Cards - 27
 
 * 4 Boss's Orders RCL 154
 * 1 Path to the Peak
@@ -26,7 +27,7 @@
 * 4 Professor's Research SSH 178
 * 4 Battle VIP Pass FST 225
 * 4 Great Ball SUM 119
-* 4 Cram-o-matic FST 229
+* 3 Cram-o-matic FST 229
 
 ##Energy - 7
 
